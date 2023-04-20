@@ -58,7 +58,7 @@ function Contact() {
       >
         <CardMedia
           component="img"
-          src="../src/assets/Images/Wave/top_wave.png"
+          src="Images/Wave/top_wave.png"
           alt="Image Title"
           sx={{
             position: "absolute",
@@ -211,7 +211,7 @@ function Contact() {
             >
               <CardMedia
                 component="img"
-                src="../src/assets/Images/Card/yoga1.jpg"
+                src="Images/Card/yoga1.jpg"
                 alt="Image Title"
                 sx={{
                   width: { xs: "260px", sm: "320px", md: "300px", lg: "100%" },

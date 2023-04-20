@@ -33,7 +33,7 @@ function Footer() {
         >
           <CardMedia
             component="img"
-            src="../src/assets/Images/Header&Footer/footer.png"
+            src="Images/Header&Footer/footer.png"
             sx={{ width: "150px" }}
           ></CardMedia>
 

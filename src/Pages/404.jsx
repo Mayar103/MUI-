@@ -10,7 +10,7 @@ function Error() {
         backgroundSize: "cover",
         backgroundPosition: "center",
         marginTop: "100px",
-        backgroundImage: `url('../src/assets/Images/404/error.jpg')`,
+        backgroundImage: `url('Images/404/error.jpg')`,
         minWidth: "100%",
         minHeight: "100vh",
       }}

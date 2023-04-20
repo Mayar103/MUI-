@@ -199,7 +199,7 @@ function Service() {
         <Fade in={isVisible} timeout={500}>
           <CardMedia
             component="img"
-            src="../src/assets/Images/Serve/yoga6.png"
+            src="Images/Serve/yoga6.png"
             sx={{ display: { xs: "none", md: "block" } }}
           />
         </Fade>

@@ -220,7 +220,7 @@ function DrawerAppBar(props) {
             >
               <CardMedia
                 component="img"
-                src="../src/assets/Images/Header&Footer/logo.png"
+                src="Images/Header&Footer/logo.png"
                 sx={{ width: "150px" }}
               />
             </Typography>

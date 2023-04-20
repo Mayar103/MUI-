@@ -94,7 +94,7 @@ function Testimonials() {
               <Box>
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Testimonials/testimonials2.png"
+                  src="Images/Testimonials/testimonials2.png"
                   sx={{
                     width: { xs: "65px" },
                     marginLeft: { xs: "15px" },
@@ -170,7 +170,7 @@ function Testimonials() {
               <Box>
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Testimonials/testimonials1.png"
+                  src="Images/Testimonials/testimonials1.png"
                   sx={{
                     width: { xs: "65px" },
                     marginLeft: { xs: "15px" },
@@ -234,7 +234,7 @@ function Testimonials() {
         >
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/1.jpg"
+            src="Images/Gallery/1.jpg"
             sx={{
               width: "250px",
               cursor: "pointer",
@@ -246,7 +246,7 @@ function Testimonials() {
           />
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/2.jpg"
+            src="Images/Gallery/2.jpg"
             sx={{
               width: "250px",
               cursor: "pointer",
@@ -258,7 +258,7 @@ function Testimonials() {
           />
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/3.jpg"
+            src="Images/Gallery/3.jpg"
             sx={{
               width: "250px",
               cursor: "pointer",
@@ -270,7 +270,7 @@ function Testimonials() {
           />
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/4.jpg"
+            src="Images/Gallery/4.jpg"
             sx={{
               width: "250px",
               cursor: "pointer",
@@ -293,7 +293,7 @@ function Testimonials() {
         >
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/img1.png"
+            src="Images/Gallery/img1.png"
             sx={{
               width: "200px",
               cursor: "pointer",
@@ -305,7 +305,7 @@ function Testimonials() {
           />
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/img2.png"
+            src="Images/Gallery/img2.png"
             sx={{
               width: "200px",
               cursor: "pointer",
@@ -317,7 +317,7 @@ function Testimonials() {
           />
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/img3.png"
+            src="Images/Gallery/img3.png"
             sx={{
               width: "200px",
               cursor: "pointer",
@@ -329,7 +329,7 @@ function Testimonials() {
           />
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/img4.png"
+            src="Images/Gallery/img4.png"
             sx={{
               width: "200px",
               cursor: "pointer",
@@ -341,7 +341,7 @@ function Testimonials() {
           />
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/img5.png"
+            src="Images/Gallery/img5.png"
             sx={{
               width: "200px",
               cursor: "pointer",
@@ -353,7 +353,7 @@ function Testimonials() {
           />
           <CardMedia
             component="img"
-            src="../src/assets/Images/Gallery/img6.png"
+            src="Images/Gallery/img6.png"
             sx={{
               width: "200px",
               cursor: "pointer",

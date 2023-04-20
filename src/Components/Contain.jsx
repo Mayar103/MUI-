@@ -59,7 +59,7 @@ function Contain() {
             >
               <CardMedia
                 component="img"
-                src="../src/assets/Images/Serve/yoga4.jpg"
+                src="Images/Serve/yoga4.jpg"
                 sx={{ borderRadius: "12px" }}
               />
             </Box>
@@ -75,7 +75,7 @@ function Contain() {
             >
               <CardMedia
                 component="img"
-                src="../src/assets/Images/Serve/yoga4.jpg"
+                src="Images/Serve/yoga4.jpg"
                 sx={{ width: { xs: "260px", md: "100%" } }}
               />
             </Box>
@@ -90,7 +90,7 @@ function Contain() {
             >
               <CardMedia
                 component="img"
-                src="../src/assets/Images/Serve/yoga5.jpg"
+                src="Images/Serve/yoga5.jpg"
                 sx={{ borderRadius: "12px" }}
               ></CardMedia>
             </Box>
@@ -104,7 +104,7 @@ function Contain() {
             >
               <CardMedia
                 component="img"
-                src="../src/assets/Images/Serve/yoga5.jpg"
+                src="Images/Serve/yoga5.jpg"
                 sx={{
                   width: "220px",
                   position: "absolute",

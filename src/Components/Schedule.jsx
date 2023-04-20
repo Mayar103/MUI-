@@ -129,7 +129,7 @@ function Schedule() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Schedule/grid.jpg"
+                  src="Images/Schedule/grid.jpg"
                   style={{ width: "90px", display: "flex" }}
                 />
                 <Typography
@@ -205,7 +205,7 @@ function Schedule() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Schedule/grid1.jpg"
+                  src="Images/Schedule/grid1.jpg"
                   style={{ width: "90px", display: "flex" }}
                 />
                 <Typography

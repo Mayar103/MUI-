@@ -42,7 +42,7 @@ function Schedule() {
       >
         <CardMedia
           component="img"
-          src="../src/assets/Images/Wave/top_wave.png"
+          src="Images/Wave/top_wave.png"
           alt="Image Title"
           sx={{
             position: "absolute",
@@ -206,7 +206,7 @@ function Schedule() {
                       >
                         <CardMedia
                           component="img"
-                          src="../src/assets/Images/Schedule/grid.jpg"
+                          src="Images/Schedule/grid.jpg"
                           style={{ width: "90px", display: "flex" }}
                         />
                         <Box sx={{ display: "flex", flexDirection: "column" }}>
@@ -244,7 +244,7 @@ function Schedule() {
                         >
                           <CardMedia
                             component="img"
-                            src="../src/assets/Images/Schedule/grid1.jpg"
+                            src="Images/Schedule/grid1.jpg"
                             style={{ width: "90px", display: "flex" }}
                           />
                           <Box
@@ -315,7 +315,7 @@ function Schedule() {
                     >
                       <CardMedia
                         component="img"
-                        src="../src/assets/Images/Schedule/grid.jpg"
+                        src="Images/Schedule/grid.jpg"
                         sx={{ width: "90px", display: "flex" }}
                       />
                       <Typography
@@ -387,7 +387,7 @@ function Schedule() {
                     >
                       <CardMedia
                         component="img"
-                        src="../src/assets/Images/Schedule/grid1.jpg"
+                        src="Images/Schedule/grid1.jpg"
                         sx={{ width: "90px", display: "flex" }}
                       />
                       <Typography
@@ -503,7 +503,7 @@ function Schedule() {
                     >
                       <CardMedia
                         component="img"
-                        src="../src/assets/Images/Card/yoga1.jpg"
+                        src="Images/Card/yoga1.jpg"
                       ></CardMedia>
                       <Box
                         sx={{
@@ -562,7 +562,7 @@ function Schedule() {
                     >
                       <CardMedia
                         component="img"
-                        src="../src/assets/Images/Card/yoga3.jpg"
+                        src="Images/Card/yoga3.jpg"
                       ></CardMedia>
                       <Box
                         sx={{

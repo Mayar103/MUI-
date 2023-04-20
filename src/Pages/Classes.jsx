@@ -54,7 +54,7 @@ function Classes() {
       >
         <CardMedia
           component="img"
-          src="../src/assets/Images/Wave/top_wave.png"
+          src="Images/Wave/top_wave.png"
           alt="Image Title"
           sx={{
             position: "absolute",
@@ -330,7 +330,7 @@ function Classes() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Classes/classes3.jpg"
+                  src="Images/Classes/classes3.jpg"
                   alt="Image Title"
                   sx={{
                     borderRadius: "12px",
@@ -445,7 +445,7 @@ function Classes() {
             >
               <CardMedia
                 component="img"
-                src="../src/assets/Images/Classes/classes2.jpg"
+                src="Images/Classes/classes2.jpg"
                 alt="Image Title"
                 sx={{
                   borderRadius: "12px",
@@ -537,7 +537,7 @@ function Classes() {
             >
               <CardMedia
                 component="img"
-                src="../src/assets/Images/Classes/classes4.jpg"
+                src="Images/Classes/classes4.jpg"
                 alt="Image Title"
                 sx={{
                   borderRadius: "12px",

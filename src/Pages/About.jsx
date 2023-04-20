@@ -23,7 +23,7 @@ function About() {
       >
         <CardMedia
           component="img"
-          src="../src/assets/Images/Wave/top_wave.png"
+          src="Images/Wave/top_wave.png"
           alt="Image Title"
           sx={{
             position: "absolute",

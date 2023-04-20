@@ -22,17 +22,17 @@ function Instructors() {
 
   const images = [
     {
-      imgPath: "../src/assets/Images/Instructors/instructor1.jpg",
+      imgPath: "Images/Instructors/instructor1.jpg",
       name: "Rick Edward",
       class: "1 class",
     },
     {
-      imgPath: "../src/assets/Images/Instructors/instructor2.jpg",
+      imgPath: "Images/Instructors/instructor2.jpg",
       name: "Alice Doe",
       class: "2 classes",
     },
     {
-      imgPath: "../src/assets/Images/Instructors/instructor3.jpg",
+      imgPath: "Images/Instructors/instructor3.jpg",
       name: "Janice Doe",
       class: "3 classes",
     },
@@ -123,7 +123,7 @@ function Instructors() {
             >
               <CardMedia
                 component="img"
-                image="../src/assets/Images/Instructors/instructor1.jpg"
+                image="Images/Instructors/instructor1.jpg"
                 alt="cardImg"
                 sx={{
                   borderRadius: "50%",
@@ -211,7 +211,7 @@ function Instructors() {
             >
               <CardMedia
                 component="img"
-                image="../src/assets/Images/Instructors/instructor2.jpg"
+                image="Images/Instructors/instructor2.jpg"
                 alt="cardImg"
                 sx={{
                   borderRadius: "50%",
@@ -299,7 +299,7 @@ function Instructors() {
             >
               <CardMedia
                 component="img"
-                image="../src/assets/Images/Instructors/instructor3.jpg"
+                image="Images/Instructors/instructor3.jpg"
                 alt="cardImg"
                 sx={{
                   borderRadius: "50%",

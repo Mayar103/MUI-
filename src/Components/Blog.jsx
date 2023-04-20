@@ -91,7 +91,7 @@ function Blog() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Blog/Blog1.jpg"
+                  src="Images/Blog/Blog1.jpg"
                   alt="Image Title"
                   sx={{
                     borderRadius: "12px",
@@ -200,7 +200,7 @@ function Blog() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Blog/Blog2.jpg"
+                  src="Images/Blog/Blog2.jpg"
                   alt="Image Title"
                   sx={{
                     borderRadius: "12px",
@@ -309,7 +309,7 @@ function Blog() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Blog/Blog3.jpg"
+                  src="Images/Blog/Blog3.jpg"
                   alt="Image Title"
                   sx={{
                     borderRadius: "12px",

@@ -95,7 +95,7 @@ function Cards() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Card/yoga1.jpg"
+                  src="Images/Card/yoga1.jpg"
                   alt="Image Title"
                   sx={{
                     borderRadius: "12px",
@@ -204,7 +204,7 @@ function Cards() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Card/yoga2.jpg"
+                  src="Images/Card/yoga2.jpg"
                   alt="Image Title"
                   sx={{
                     borderRadius: "12px",
@@ -313,7 +313,7 @@ function Cards() {
               >
                 <CardMedia
                   component="img"
-                  src="../src/assets/Images/Card/yoga3.jpg"
+                  src="Images/Card/yoga3.jpg"
                   alt="Image Title"
                   sx={{
                     borderRadius: "12px",

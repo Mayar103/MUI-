@@ -53,7 +53,7 @@ function Container() {
           backgroundSize: "cover",
           backgroundPosition: "center",
           marginTop: "100px",
-          backgroundImage: `url('../src/assets/Images/Header&Footer/background.jpg')`,
+          backgroundImage: `url('Images/Header&Footer/background.jpg')`,
           minWidth: "100%",
           minHeight: "100vh",
         }}
@@ -63,13 +63,13 @@ function Container() {
         <CardMedia
           component="img"
           style={waveStyle1}
-          src={"../src/assets/Images/Wave/top_wave.png"}
+          src={"Images/Wave/top_wave.png"}
           alt="wave 1"
         />
         <CardMedia
           component="img"
           style={waveStyle2}
-          src={"../src/assets/Images/Wave/top_wave1.png"}
+          src={"Images/Wave/top_wave1.png"}
           alt="wave 2"
         />
 

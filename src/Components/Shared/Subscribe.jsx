@@ -23,7 +23,7 @@ function Subscribe({ radius }) {
     >
       <CardMedia
         component="img"
-        src="../src/assets/Images/Wave/bottom_wave.png"
+        src="Images/Wave/bottom_wave.png"
         alt="Image Title"
         sx={{
           position: "absolute",
