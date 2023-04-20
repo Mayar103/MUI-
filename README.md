@@ -22,3 +22,6 @@ UYoga is a web application built using React.js and is styled using Materia UI.
 1. Clone the repository 
 2. Install dependencies with npm install
 3. Start the application with npm run dev and open your browser on this link (http://localhost:5173/).
+
+
+Link of live demo: https://uyogaa.vercel.app/
